@@ -39,3 +39,24 @@ This project automates the transcription, translation, and summarisation of Kore
    cd project-name
    ```
 
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the server:
+   ```bash
+   python test_backend.py
+   ```
+
+4. Start the frontend:
+   ```bash
+   streamlit run test_frontend.py
+   ```
+
+## How to Use
+
+1. Access the interface through your web browser.
+2. Upload the lecture audio file and optional PDF slides.
+3. Click "Process" to generate transcription, translation, and summary.
+4. Download the generated study notes.
