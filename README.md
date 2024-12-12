@@ -35,8 +35,8 @@ This project automates the transcription, translation, and summarisation of Kore
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project-name.git
-   cd project-name
+   git clone https://github.com/khairulakmal/ds-capstone.git
+   cd ds-capstone
    ```
 
 2. Install dependencies:
